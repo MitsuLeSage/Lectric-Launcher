@@ -2,7 +2,7 @@
     "name": "Lectric-Launcher",
     "preductname": "Lectric Launcher",
     "version": "1.0.2",
-    "description": "Launcher Minecraft du serveur LectricMC",
+    "description": "Launcher du serveur LectricMC",
     "main": "src/app.js",
     "author": "MitsuLeSage",
     "url": "http://lectriclauncher.yn.lu/",
