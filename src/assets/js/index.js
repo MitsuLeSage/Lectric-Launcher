@@ -24,7 +24,7 @@ class Splash {
         let splashes = [
             { "message": "Je... vie...", "author": "Mitsu" },
             { "message": "Salut je suis du code.", "author": "Mitsu" },
-            { "message": "La baleine bleu pèse de 130 000 a 150 000 kg.", "author": "Mitsu" }
+            { "message": "Être ou ne pas être.", "author": "Mitsu" }
         ]
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
