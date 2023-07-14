@@ -1,7 +1,7 @@
 {
     "name": "lectric-launcher",
     "preductname": "LectricMC Launcher",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Launcher du serveur LectricMC",
     "main": "src/app.js",
     "author": "MitsuLeSage",
